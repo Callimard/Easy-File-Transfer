@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect Designer 9.6-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_vNg6oL_qEei8TpF9PeRf2Q" type="Class" name="easy_server_diagram.dnx">
+  <eAnnotations xmi:id="_vNhhsL_qEei8TpF9PeRf2Q" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_vNhhsb_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBStateMachine2" value="1"/>
+    <details xmi:id="_vNhhsr_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBStateMachine1" value="1"/>
+    <details xmi:id="_vNhhs7_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBSpecificInstanceType2" value="1"/>
+    <details xmi:id="_vNhhtL_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBSpecificInstanceType1" value="1"/>
+    <details xmi:id="_vNhhtb_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBPackageTemplateParameter" value="1"/>
+    <details xmi:id="_vNhhtr_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBTemplate" value="1"/>
+    <details xmi:id="_vNhht7_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBEvent2" value="1"/>
+    <details xmi:id="_vNiIwL_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBEvent1" value="1"/>
+    <details xmi:id="_vNiIwb_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBRelationship3" value="1"/>
+    <details xmi:id="_vNiIwr_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBInterfaceTemplateParameter" value="1"/>
+    <details xmi:id="_vNiIw7_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBRelationship1" value="1"/>
+    <details xmi:id="_vNiIxL_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBRelationship2" value="1"/>
+    <details xmi:id="_vNiIxb_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBInformationFlow" value="1"/>
+    <details xmi:id="_vNiIxr_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBCommunicationDiagram" value="1"/>
+    <details xmi:id="_vNiIx7_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBComponentTemplateParameter" value="1"/>
+    <details xmi:id="_vNiIyL_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBActivity1" value="1"/>
+    <details xmi:id="_vNiIyb_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBCompositeStructure1" value="1"/>
+    <details xmi:id="_vNiIyr_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBActivity2" value="1"/>
+    <details xmi:id="_vNiIy7_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBSubsystem" value="1"/>
+    <details xmi:id="_vNiIzL_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBCompositeStructure2" value="1"/>
+    <details xmi:id="_vNiIzb_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBActivity3" value="1"/>
+    <details xmi:id="_vNiIzr_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBDeploymentDiagram" value="1"/>
+    <details xmi:id="_vNiv0L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBFragment" value="1"/>
+    <details xmi:id="_vNiv0b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBActivity4" value="1"/>
+    <details xmi:id="_vNiv0r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBInteraction" value="1"/>
+    <details xmi:id="_vNiv07_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBInterface" value="1"/>
+    <details xmi:id="_vNiv1L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBFreeFormDiagram" value="1"/>
+    <details xmi:id="_vNiv1b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBClassDiagram" value="1"/>
+    <details xmi:id="_vNiv1r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBCommunication" value="1"/>
+    <details xmi:id="_vNiv17_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBStereotypedComponent" value="1"/>
+    <details xmi:id="_vNiv2L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBStateChartDiagram" value="1"/>
+    <details xmi:id="_vNiv2b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBDependancy" value="1"/>
+    <details xmi:id="_vNiv2r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBPackage" value="1"/>
+    <details xmi:id="_vNiv27_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBStereotypedArtifact" value="1"/>
+    <details xmi:id="_vNiv3L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBClass" value="1"/>
+    <details xmi:id="_vNiv3b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBRealization" value="1"/>
+    <details xmi:id="_vNiv3r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBFunction" value="1"/>
+    <details xmi:id="_vNjW4L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBComponentDiagram" value="1"/>
+    <details xmi:id="_vNjW4b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBComponent" value="1"/>
+    <details xmi:id="_vNjW4r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBTypes1" value="1"/>
+    <details xmi:id="_vNjW47_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBAction" value="1"/>
+    <details xmi:id="_vNjW5L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBArtifact" value="1"/>
+    <details xmi:id="_vNjW5b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBSequence1" value="1"/>
+    <details xmi:id="_vNjW5r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBStructureDiagram" value="1"/>
+    <details xmi:id="_vNjW57_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBSequence2" value="1"/>
+    <details xmi:id="_vNjW6L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBClassTemplateParameter" value="1"/>
+    <details xmi:id="_vNjW6b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBDeployment1" value="1"/>
+    <details xmi:id="_vNjW6r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBDeployment2" value="1"/>
+    <details xmi:id="_vNjW67_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBCollaboration" value="1"/>
+    <details xmi:id="_vNjW7L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBAbstractionRelation" value="1"/>
+    <details xmi:id="_vNjW7b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBElementImport2" value="1"/>
+    <details xmi:id="_vNjW7r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBUsage" value="1"/>
+    <details xmi:id="_vNjW77_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBInstance" value="1"/>
+    <details xmi:id="_vNjW8L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBTypes4" value="1"/>
+    <details xmi:id="_vNj98L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBSequenceDiagram" value="1"/>
+    <details xmi:id="_vNj98b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBProfile" value="1"/>
+    <details xmi:id="_vNj98r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBElementImport1" value="1"/>
+    <details xmi:id="_vNj987_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBTypes3" value="1"/>
+    <details xmi:id="_vNj99L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBCollaborationUse" value="1"/>
+    <details xmi:id="_vNj99b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBTypes2" value="1"/>
+    <details xmi:id="_vNj99r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBObjectDiagram" value="1"/>
+    <details xmi:id="_vNj997_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBInteractionOverviewDiagram" value="1"/>
+    <details xmi:id="_vNj9-L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBProfileApplication" value="1"/>
+    <details xmi:id="_vNj9-b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBStereotypedClass" value="1"/>
+    <details xmi:id="_vNj9-r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBPrimitiveTypeTemplateParameter" value="1"/>
+    <details xmi:id="_vNj9-7_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBTiming" value="1"/>
+    <details xmi:id="_vNj9_L_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBLifeLine" value="1"/>
+    <details xmi:id="_vNj9_b_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBFunctionTemplateParameter" value="1"/>
+    <details xmi:id="_vNj9_r_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBUseCaseDiagram" value="1"/>
+    <details xmi:id="_vNklAL_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBSignal" value="1"/>
+    <details xmi:id="_vNklAb_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBStereotypedDeployment1" value="1"/>
+    <details xmi:id="_vNklAr_qEei8TpF9PeRf2Q" key="com.ibm.xtools.rest.ui.uireduction.activity" value="1"/>
+    <details xmi:id="_vNklA7_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBTimingDiagram" value="1"/>
+    <details xmi:id="_vNklBL_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+    <details xmi:id="_vNklBb_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBConstraint" value="1"/>
+    <details xmi:id="_vNklBr_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBComment2" value="1"/>
+    <details xmi:id="_vNklB7_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBUseCase1" value="1"/>
+    <details xmi:id="_vNklCL_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBComment3" value="1"/>
+    <details xmi:id="_vNklCb_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBUseCase2" value="1"/>
+    <details xmi:id="_vNklCr_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBInteractionOverview" value="1"/>
+    <details xmi:id="_vNklC7_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBDeploymentSpecification" value="1"/>
+    <details xmi:id="_vNklDL_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBComment1" value="1"/>
+    <details xmi:id="_vNklDb_qEei8TpF9PeRf2Q" key="com.ibm.xtools.activities.umlBBActivityDiagram" value="1"/>
+    <details xmi:id="_vNklDr_qEei8TpF9PeRf2Q" key="com.ibm.xtools.http.activity.id" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_wC5DcL_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wDTTIL_qEei8TpF9PeRf2Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_wDTTIb_qEei8TpF9PeRf2Q" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wDT6ML_qEei8TpF9PeRf2Q" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wDT6Mb_qEei8TpF9PeRf2Q" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wDUhQL_qEei8TpF9PeRf2Q" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wDVIUL_qEei8TpF9PeRf2Q" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wDYysL_qEei8TpF9PeRf2Q" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wD5JAL_qEei8TpF9PeRf2Q" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ServerSocketThread%5Bjcu%5Ename=ServerSocketThread.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wC5Dcb_qEei8TpF9PeRf2Q" y="28380"/>
+  </children>
+  <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_wD6XIL_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wD6-ML_qEei8TpF9PeRf2Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_wD6-Mb_qEei8TpF9PeRf2Q" width="530" height="530"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wD6-Mr_qEei8TpF9PeRf2Q" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wD7lQL_qEei8TpF9PeRf2Q" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wD7lQb_qEei8TpF9PeRf2Q" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wD7lQr_qEei8TpF9PeRf2Q" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_wD8zYL_qEei8TpF9PeRf2Q" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_wD8zYb_qEei8TpF9PeRf2Q" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_wD-BgL_qEei8TpF9PeRf2Q" visible="false" type="SignalCompartment"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=CommandReader%5Bjcu%5Ename=CommandReader.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wD6XIb_qEei8TpF9PeRf2Q" x="7392" y="45408"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_wD-okL_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wD-okr_qEei8TpF9PeRf2Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_wD-ok7_qEei8TpF9PeRf2Q" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wD_PoL_qEei8TpF9PeRf2Q" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wD_Pob_qEei8TpF9PeRf2Q" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wD_Por_qEei8TpF9PeRf2Q" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wD_Po7_qEei8TpF9PeRf2Q" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wECS8L_qEei8TpF9PeRf2Q" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wECS8b_qEei8TpF9PeRf2Q" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ServerController%5Bjcu%5Ename=ServerController.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wD-okb_qEei8TpF9PeRf2Q" x="3300"/>
+  </children>
+  <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_wEC6AL_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wEC6Ar_qEei8TpF9PeRf2Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_wEC6A7_qEei8TpF9PeRf2Q" width="530" height="530"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wEDhEL_qEei8TpF9PeRf2Q" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wEDhEb_qEei8TpF9PeRf2Q" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wEDhEr_qEei8TpF9PeRf2Q" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wEDhE7_qEei8TpF9PeRf2Q" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_wEDhFL_qEei8TpF9PeRf2Q" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_wEDhFb_qEei8TpF9PeRf2Q" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_wEEIIL_qEei8TpF9PeRf2Q" visible="false" type="SignalCompartment"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=ClientConnection%5Bjcu%5Ename=ClientConnection.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wEC6Ab_qEei8TpF9PeRf2Q" x="23892" y="22704"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_wEEIIb_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wEEvML_qEei8TpF9PeRf2Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_wEEvMb_qEei8TpF9PeRf2Q" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wEEvMr_qEei8TpF9PeRf2Q" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wEEvM7_qEei8TpF9PeRf2Q" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wEEvNL_qEei8TpF9PeRf2Q" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wEEvNb_qEei8TpF9PeRf2Q" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wEGkYL_qEei8TpF9PeRf2Q" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wEGkYb_qEei8TpF9PeRf2Q" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ClientManager%5Bjcu%5Ename=ClientManager.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wEEIIr_qEei8TpF9PeRf2Q" x="7392" y="31284"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_wEGkYr_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wEHLcL_qEei8TpF9PeRf2Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_wEHLcb_qEei8TpF9PeRf2Q" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wEHLcr_qEei8TpF9PeRf2Q" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wEHLc7_qEei8TpF9PeRf2Q" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_wEHLdL_qEei8TpF9PeRf2Q" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wEHLdb_qEei8TpF9PeRf2Q" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wEIZkL_qEei8TpF9PeRf2Q" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_wEIZkb_qEei8TpF9PeRf2Q" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Command%5Bjcu%5Ename=Command.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wEGkY7_qEei8TpF9PeRf2Q" x="15576" y="22044"/>
+  </children>
+  <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_-3C0QL_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-3DbUL_qEei8TpF9PeRf2Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_-3DbUb_qEei8TpF9PeRf2Q" width="530" height="530"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3ECYL_qEei8TpF9PeRf2Q" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3ECYb_qEei8TpF9PeRf2Q" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3ECYr_qEei8TpF9PeRf2Q" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3ECY7_qEei8TpF9PeRf2Q" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_-3ECZL_qEei8TpF9PeRf2Q" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_-3ECZb_qEei8TpF9PeRf2Q" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_-3EpcL_qEei8TpF9PeRf2Q" visible="false" type="SignalCompartment"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=CharReaderWriter%5Bjcu%5Ename=CharReaderWriter.java%5Bjpack%5Ename=server.util%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-3C0Qb_qEei8TpF9PeRf2Q" x="25718" y="34978"/>
+  </children>
+  <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_-3Epcb_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-3FQgL_qEei8TpF9PeRf2Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_-3FQgb_qEei8TpF9PeRf2Q" width="530" height="530"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3FQgr_qEei8TpF9PeRf2Q" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3FQg7_qEei8TpF9PeRf2Q" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3FQhL_qEei8TpF9PeRf2Q" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3FQhb_qEei8TpF9PeRf2Q" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_-3F3kL_qEei8TpF9PeRf2Q" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_-3F3kb_qEei8TpF9PeRf2Q" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_-3F3kr_qEei8TpF9PeRf2Q" visible="false" type="SignalCompartment"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=CharWriter%5Bjcu%5Ename=CharWriter.java%5Bjpack%5Ename=server.util%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-3Epcr_qEei8TpF9PeRf2Q" x="16190" y="33642"/>
+  </children>
+  <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_-3F3k7_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-3GeoL_qEei8TpF9PeRf2Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_-3Geob_qEei8TpF9PeRf2Q" width="530" height="530"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3Geor_qEei8TpF9PeRf2Q" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3HFsL_qEei8TpF9PeRf2Q" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3HFsb_qEei8TpF9PeRf2Q" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3HFsr_qEei8TpF9PeRf2Q" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_-3HFs7_qEei8TpF9PeRf2Q" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_-3HFtL_qEei8TpF9PeRf2Q" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_-3HswL_qEei8TpF9PeRf2Q" visible="false" type="SignalCompartment"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=CharReader%5Bjcu%5Ename=CharReader.java%5Bjpack%5Ename=server.util%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-3F3lL_qEei8TpF9PeRf2Q" x="20954" y="33854"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_wcAHAL_qEei8TpF9PeRf2Q" source="_wD-okL_qEei8TpF9PeRf2Q" target="_wC5DcL_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wcAuEL_qEei8TpF9PeRf2Q" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_wcAuEr_qEei8TpF9PeRf2Q" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_wcAuFL_qEei8TpF9PeRf2Q" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_wcAuE7_qEei8TpF9PeRf2Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wcAuEb_qEei8TpF9PeRf2Q" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=ServerController%5Bjcu%5Ename=ServerController.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ServerSocketThread%5Bjcu%5Ename=ServerSocketThread.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wcAHAb_qEei8TpF9PeRf2Q" points="[27, 103, 2954, -2619]$[27, 1135, 2954, -1587]$[-2887, 1135, 40, -1587]$[-2887, 2722, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_we1YkL_qEei8TpF9PeRf2Q" id="(0.34002768650718607,0.9805513668174611)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_we1_oL_qEei8TpF9PeRf2Q" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_wcBVIL_qEei8TpF9PeRf2Q" source="_wD-okL_qEei8TpF9PeRf2Q" target="_wEEIIb_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wcBVIr_qEei8TpF9PeRf2Q" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_wcBVJL_qEei8TpF9PeRf2Q" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_wcBVJr_qEei8TpF9PeRf2Q" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_wcBVJb_qEei8TpF9PeRf2Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wcBVI7_qEei8TpF9PeRf2Q" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=ServerController%5Bjcu%5Ename=ServerController.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ClientManager%5Bjcu%5Ename=ClientManager.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wcBVIb_qEei8TpF9PeRf2Q" points="[53, 103, -2875, -5905]$[53, 1135, -2875, -4873]$[2968, 1135, 40, -4873]$[2968, 5264, 40, -744]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_we3NwL_qEei8TpF9PeRf2Q" id="(0.6800176254018531,0.9805513668174611)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_we3Nwb_qEei8TpF9PeRf2Q" id="(0.5100840336134451,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_wcBVJ7_qEei8TpF9PeRf2Q" source="_wEEIIb_qEei8TpF9PeRf2Q" target="_wD6XIL_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wcB8ML_qEei8TpF9PeRf2Q" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_wcB8Mr_qEei8TpF9PeRf2Q" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_wcB8NL_qEei8TpF9PeRf2Q" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_wcB8M7_qEei8TpF9PeRf2Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wcB8Mb_qEei8TpF9PeRf2Q" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=ClientManager%5Bjcu%5Ename=ClientManager.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CommandReader%5Bjcu%5Ename=CommandReader.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wcBVKL_qEei8TpF9PeRf2Q" points="[40, 99, 40, -5906]$[40, 5607, 40, -398]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_we300L_qEei8TpF9PeRf2Q" id="(0.5100840336134451,0.9425995663585521)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_we300b_qEei8TpF9PeRf2Q" id="(0.5100840336134451,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_-3kYsL_qEei8TpF9PeRf2Q" source="_wEC6AL_qEei8TpF9PeRf2Q" target="_-3C0QL_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-3k_wL_qEei8TpF9PeRf2Q" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3k_wr_qEei8TpF9PeRf2Q" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3k_w7_qEei8TpF9PeRf2Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-3k_wb_qEei8TpF9PeRf2Q" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=ClientConnection%5Bjcu%5Ename=ClientConnection.java%5Bjpack%5Ename=server.util.easy_server%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CharReaderWriter%5Bjcu%5Ename=CharReaderWriter.java%5Bjpack%5Ename=server.util%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-3kYsb_qEei8TpF9PeRf2Q" points="[39, 101, -1826, -9658]$[39, 2101, -1826, -7658]$[1905, 2101, 40, -7658]$[1905, 9759, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-6-SAL_qEei8TpF9PeRf2Q" id="(0.49999999999999895,0.9614112458654906)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-6-5EL_qEei8TpF9PeRf2Q" id="(0.49999999999999895,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_-3k_xL_qEei8TpF9PeRf2Q" source="_-3C0QL_qEei8TpF9PeRf2Q" target="_-3F3k7_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-3lm0L_qEei8TpF9PeRf2Q" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3lm0r_qEei8TpF9PeRf2Q" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3lm07_qEei8TpF9PeRf2Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-3lm0b_qEei8TpF9PeRf2Q" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=CharReaderWriter%5Bjcu%5Ename=CharReaderWriter.java%5Bjpack%5Ename=server.util%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CharReader%5Bjcu%5Ename=CharReader.java%5Bjpack%5Ename=server.util%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-3k_xb_qEei8TpF9PeRf2Q" points="[0, 53, 2277, 53]$[-2200, 53, 77, 53]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-6_gIL_qEei8TpF9PeRf2Q" id="(-1.0429985112074866E-15,0.5002871912693854)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-6_gIb_qEei8TpF9PeRf2Q" id="(0.9701097237987136,0.5)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_-3lm1L_qEei8TpF9PeRf2Q" source="_-3C0QL_qEei8TpF9PeRf2Q" target="_-3Epcb_qEei8TpF9PeRf2Q" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-3mN4L_qEei8TpF9PeRf2Q" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3mN4r_qEei8TpF9PeRf2Q" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_-3mN47_qEei8TpF9PeRf2Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-3mN4b_qEei8TpF9PeRf2Q" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=CharReaderWriter%5Bjcu%5Ename=CharReaderWriter.java%5Bjpack%5Ename=server.util%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CharWriter%5Bjcu%5Ename=CharWriter.java%5Bjpack%5Ename=server.util%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=FTP_Server%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-3lm1b_qEei8TpF9PeRf2Q" points="[40, 99, 9990, -1233]$[40, 7848, 9990, 6516]$[-9911, 7848, 39, 6516]$[-9911, 1435, 39, 103]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-7AHML_qEei8TpF9PeRf2Q" id="(0.49999999999999895,0.9396898334290638)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-7AHMb_qEei8TpF9PeRf2Q" id="(0.5,0.9762066621346006)"/>
+  </edges>
+</umlnotation:UMLDiagram>

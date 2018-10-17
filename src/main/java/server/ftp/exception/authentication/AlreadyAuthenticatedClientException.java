@@ -3,7 +3,6 @@ package server.ftp.exception.authentication;
 public class AlreadyAuthenticatedClientException extends AuthenticationException {
 
 	public AlreadyAuthenticatedClientException() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public AlreadyAuthenticatedClientException(String arg0) {

@@ -3,7 +3,6 @@ package server.util.easy_server.exception.server_controller;
 public class ServerControllerFailedToStartException extends ServerControllerException {
 
 	public ServerControllerFailedToStartException() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public ServerControllerFailedToStartException(String message) {

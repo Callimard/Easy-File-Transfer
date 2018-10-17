@@ -4,7 +4,6 @@ public class UserException extends Exception {
 
 	public UserException() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public UserException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {

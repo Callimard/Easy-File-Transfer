@@ -3,7 +3,6 @@ package server.util.easy_server.exception.client_manager;
 public class ClientManagerAlreadyManagingClientException extends ClientManagerException {
 
 	public ClientManagerAlreadyManagingClientException() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public ClientManagerAlreadyManagingClientException(String message) {

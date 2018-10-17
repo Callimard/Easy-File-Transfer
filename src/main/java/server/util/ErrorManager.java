@@ -32,7 +32,6 @@ public class ErrorManager {
 			if (this.WRITER == null)
 				this.WRITER = new PrintStream(FILE_ERRORS);
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}

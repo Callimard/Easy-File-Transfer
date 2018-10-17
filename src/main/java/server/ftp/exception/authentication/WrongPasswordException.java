@@ -3,7 +3,6 @@ package server.ftp.exception.authentication;
 public class WrongPasswordException extends AuthenticationException {
 
 	public WrongPasswordException() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public WrongPasswordException(String arg0) {

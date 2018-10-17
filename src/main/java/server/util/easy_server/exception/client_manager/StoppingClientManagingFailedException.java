@@ -3,7 +3,6 @@ package server.util.easy_server.exception.client_manager;
 public class StoppingClientManagingFailedException extends ClientManagerException {
 
 	public StoppingClientManagingFailedException() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public StoppingClientManagingFailedException(String message) {
